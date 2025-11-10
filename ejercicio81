@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantilla</title>
+    <meta name="description" content="Esto es el ejerciico 81 de mi página web">
+    <meta name="keywords" content="html, ejercicio, ejercicio1, ejemplo, ejercicio81, ejercicios">
+    <meta name="author" content="Enrique Tejero">
+    <meta name="application-name" content="Plantilla.html">
+    <meta name="generator" content="VSCode">
+</head>
+<body>
+    <h1>Jugadores de futbol leyendas</h1>
+    <ul>
+        <li>España
+            <ul style="list-style-type: square;">
+                <li>Casillas</li>
+                <li>Xavi</li>
+                <li>Iniesta</li>
+            </ul>
+        </li>
+        <li>Francia
+            <ul style="list-style-type:disc">
+                <li>Zidane</li>
+                <li>Platini</li>
+                <li>Henry</li>
+            </ul>
+        </li>
+        <li>Brasil
+            <ul>
+                <li>Pelé</li>
+                <li>Ronaldo</li>
+                <li>Romário</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
